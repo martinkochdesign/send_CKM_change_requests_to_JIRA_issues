@@ -1,0 +1,36 @@
+name: Daily CKM Change Requests updated to JIRA
+
+on:
+  schedule:
+    - cron: '0 0 1 1-12 *'  # Runs every moonth at 00:00 UTC (see https://crontab.guru/ for configuration)
+
+  workflow_dispatch:      # Allow manual trigger from GitHub UI
+
+jobs:
+  update-dataset:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run extractor script
+        run: |
+          python workflow_3.py
+
+      - name: Commit and push updated dataset
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dataset.js
+          git commit -m "Automated daily dataset update" || echo "No changes to commit"
+          git push
