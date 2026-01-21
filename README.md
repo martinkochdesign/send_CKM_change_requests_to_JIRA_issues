@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>CKM Change Requests ↔ Jira Sync Script – README</title>
-</head>
-<body>
+
 
   <h1>CKM Change Requests ↔ Jira Sync Script</h1>
 
@@ -442,17 +436,5 @@ issuetype = type_map.get(CR['ckmResource']['resourceType'].lower(), "Task")
     <li>Do not commit real API tokens to public repositories.</li>
   </ul>
 
-  <hr />
 
-  <h2>License</h2>
 
-  <pre><code>MIT License
-
-Copyright (c) ...
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-...
-</code></pre>
-
-</body>
-</html>
