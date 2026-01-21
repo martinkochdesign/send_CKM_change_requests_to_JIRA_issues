@@ -6,6 +6,10 @@ on:
 
   workflow_dispatch:      # Allow manual trigger from GitHub UI
 
+env:
+    jira_account: ${{ secrets.SECRET_JIRA_USER_EMAIL }}
+    jira_token: ${{ secrets.SECRET_JIRA_API_TOKEN }}
+
 jobs:
   update-requests:
     runs-on: ubuntu-latest
