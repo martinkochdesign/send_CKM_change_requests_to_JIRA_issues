@@ -1,3 +1,4 @@
+import os
 import requests
 from requests.auth import HTTPBasicAuth
 import json
@@ -6,8 +7,8 @@ import json
 JIRA_URL = "https://openehr.atlassian.net"
 API_ENDPOINT = f"{JIRA_URL}/rest/api/2/issue"
 SEARCH_ENDPOINT = f"{JIRA_URL}/rest/api/3/search/jql"
-EMAIL = "martinandreaskoch@catsalut.cat"
-API_TOKEN = "ATATT3xFfGF0lqfHihOICVZbhMunT3-fdiwQn6gjF8fCOFGmQft2wC3TNai3RWq_g5fYeOgiwiefg0vek62M_QMZp0rtehbvWH0cTR4fCdLjkRjhA-jdwuZpO5TaZbgklUXG1HNZcdY-r1l8URhHclRH5rn2n2WR2xIEWTZBNUE1WtZH24D2pCo=A491F9FE"
+EMAIL = os.environ["jira_account"]
+API_TOKEN = os.environ["jira_token"]
 JIRA_BOARD = "TEST"
 
 # get list of CKM Change requests (CR)
