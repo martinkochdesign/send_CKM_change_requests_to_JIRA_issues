@@ -27,10 +27,3 @@ jobs:
         run: |
           python workflow_v3.py
 
-      - name: Commit and push updated dataset
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add dataset.js
-          git commit -m "Automated daily dataset update" || echo "No changes to commit"
-          git push
