@@ -99,7 +99,7 @@ print('Number of issues', len(issues))
 
 issuelabels =  [item for obj in issues for item in obj['fields'].get("labels", [])]
 
-print('Checking for all CKM CRs...')
+
 # for every CKM CR...
 
 # Flatten with json_normalize
@@ -108,9 +108,13 @@ df = pandas.json_normalize(
     sep=".",              # separator between levels in the new column names
     max_level=None        # flatten all levels
 )
+print('Saving to Excel')
 # Save to xlsx
 df.to_excel("CKM_Change_Requests.xlsx", index=False)
 
+print('Done')
+
+print('Checking for all CKM CRs...')
 for CR in changeRequest:
 
 	# CR exists in JIRA as label?
