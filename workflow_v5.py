@@ -1,7 +1,8 @@
 import requests
 from requests.auth import HTTPBasicAuth
 import json
-import pandas as pd
+import os
+import pandas
 
 # Jira credentials and instance info
 JIRA_URL = "https://openehr.atlassian.net"
@@ -102,7 +103,7 @@ print('Checking for all CKM CRs...')
 # for every CKM CR...
 
 # Flatten with json_normalize
-df = pd.json_normalize(
+df = pandas.json_normalize(
     changeRequest,
     sep=".",              # separator between levels in the new column names
     max_level=None        # flatten all levels
