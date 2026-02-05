@@ -1,6 +1,7 @@
 import requests
 from requests.auth import HTTPBasicAuth
 import json
+import os
 import pandas as pd
 
 # Jira credentials and instance info
