@@ -29,5 +29,5 @@ jobs:
 
       - name: Run extractor script
         run: |
-          python workflow_v3.py
+          python workflow_v4.py
 
