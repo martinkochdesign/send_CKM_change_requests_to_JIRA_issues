@@ -29,5 +29,13 @@ jobs:
 
       - name: Run extractor script
         run: |
-          python workflow_v4.py
+          python workflow_v5.py
+          
+      - name: Commit and push updated change requests
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add CKM_Change_Requests.xlsx
+          git commit -m "Automated daily change request update" || echo "No changes to commit"
+          git push
 
