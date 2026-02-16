@@ -29,7 +29,7 @@ jobs:
 
       - name: Run extractor script
         run: |
-          python workflow_v5.py
+          python workflow_v6.py
           
       - name: Commit and push updated change requests
         run: |
