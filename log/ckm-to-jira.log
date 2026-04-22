@@ -1,0 +1,662 @@
+2026-04-22 10:08:11 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1098	ckm_cr=CR-4	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1100	ckm_cr=CR-24	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1103	ckm_cr=CR-52	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1104	ckm_cr=CR-53	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1105	ckm_cr=CR-54	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1106	ckm_cr=CR-55	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1107	ckm_cr=CR-56	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1108	ckm_cr=CR-60	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1110	ckm_cr=CR-97	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1113	ckm_cr=CR-108	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1115	ckm_cr=CR-147	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-149	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1117	ckm_cr=CR-171	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1118	ckm_cr=CR-183	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1119	ckm_cr=CR-188	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1124	ckm_cr=CR-222	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1125	ckm_cr=CR-224	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1126	ckm_cr=CR-225	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1127	ckm_cr=CR-231	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1129	ckm_cr=CR-247	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1130	ckm_cr=CR-248	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1131	ckm_cr=CR-257	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1133	ckm_cr=CR-288	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1134	ckm_cr=CR-291	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1137	ckm_cr=CR-326	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1138	ckm_cr=CR-329	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1140	ckm_cr=CR-341	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1141	ckm_cr=CR-343	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1143	ckm_cr=CR-369	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1146	ckm_cr=CR-387	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1149	ckm_cr=CR-401	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1150	ckm_cr=CR-405	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1151	ckm_cr=CR-409	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1152	ckm_cr=CR-420	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1153	ckm_cr=CR-435	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1154	ckm_cr=CR-436	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1158	ckm_cr=CR-449	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1159	ckm_cr=CR-450	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1162	ckm_cr=CR-455	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1164	ckm_cr=CR-459	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1165	ckm_cr=CR-461	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1166	ckm_cr=CR-462	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1169	ckm_cr=CR-478	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1174	ckm_cr=CR-491	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1178	ckm_cr=CR-499	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1183	ckm_cr=CR-517	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1186	ckm_cr=CR-545	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1187	ckm_cr=CR-547	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1188	ckm_cr=CR-553	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1192	ckm_cr=CR-562	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1196	ckm_cr=CR-573	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1197	ckm_cr=CR-574	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1198	ckm_cr=CR-575	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1199	ckm_cr=CR-578	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1200	ckm_cr=CR-579	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1204	ckm_cr=CR-590	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1206	ckm_cr=CR-602	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1207	ckm_cr=CR-608	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1208	ckm_cr=CR-610	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1209	ckm_cr=CR-624	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1212	ckm_cr=CR-630	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1542	ckm_cr=CR-634	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1218	ckm_cr=CR-651	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1219	ckm_cr=CR-659	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1220	ckm_cr=CR-660	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1223	ckm_cr=CR-685	action=UPDATE_IN_PROGRESS	comment=Updated issue state to "In Progress".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1224	ckm_cr=CR-686	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1226	ckm_cr=CR-691	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1227	ckm_cr=CR-693	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1229	ckm_cr=CR-695	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1232	ckm_cr=CR-700	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1233	ckm_cr=CR-701	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1234	ckm_cr=CR-702	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1235	ckm_cr=CR-703	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1236	ckm_cr=CR-704	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1238	ckm_cr=CR-706	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1241	ckm_cr=CR-710	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1245	ckm_cr=CR-718	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1246	ckm_cr=CR-719	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1247	ckm_cr=CR-720	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1248	ckm_cr=CR-721	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1249	ckm_cr=CR-722	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1250	ckm_cr=CR-723	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1251	ckm_cr=CR-724	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1258	ckm_cr=CR-731	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1259	ckm_cr=CR-732	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1263	ckm_cr=CR-742	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1264	ckm_cr=CR-751	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1265	ckm_cr=CR-752	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1266	ckm_cr=CR-753	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1267	ckm_cr=CR-755	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1268	ckm_cr=CR-765	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1268	ckm_cr=CR-765	action=UPDATE_IN_PROGRESS	comment=Updated issue state to "In Progress".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1272	ckm_cr=CR-774	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1273	ckm_cr=CR-777	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1286	ckm_cr=CR-809	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1288	ckm_cr=CR-820	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1292	ckm_cr=CR-829	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1295	ckm_cr=CR-838	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1296	ckm_cr=CR-839	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1297	ckm_cr=CR-840	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1301	ckm_cr=CR-850	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1308	ckm_cr=CR-873	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1320	ckm_cr=CR-889	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1321	ckm_cr=CR-890	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1327	ckm_cr=CR-903	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1333	ckm_cr=CR-913	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1336	ckm_cr=CR-916	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1345	ckm_cr=CR-949	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1346	ckm_cr=CR-950	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1347	ckm_cr=CR-951	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1348	ckm_cr=CR-953	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1349	ckm_cr=CR-954	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1354	ckm_cr=CR-961	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1355	ckm_cr=CR-962	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1373	ckm_cr=CR-998	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1376	ckm_cr=CR-1006	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1379	ckm_cr=CR-1009	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1380	ckm_cr=CR-1012	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1384	ckm_cr=CR-1016	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1387	ckm_cr=CR-1021	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1388	ckm_cr=CR-1022	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1392	ckm_cr=CR-1027	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1395	ckm_cr=CR-1030	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1397	ckm_cr=CR-1033	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1400	ckm_cr=CR-1037	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1402	ckm_cr=CR-1039	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1405	ckm_cr=CR-1042	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1407	ckm_cr=CR-1044	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1410	ckm_cr=CR-1047	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1411	ckm_cr=CR-1048	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1412	ckm_cr=CR-1049	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1431	ckm_cr=CR-1071	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1433	ckm_cr=CR-1073	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1442	ckm_cr=CR-1088	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1447	ckm_cr=CR-1096	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1450	ckm_cr=CR-1099	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1453	ckm_cr=CR-1102	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1455	ckm_cr=CR-1104	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1532	ckm_cr=CR-1119	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1506	ckm_cr=CR-1132	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1514	ckm_cr=CR-1140	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1513	ckm_cr=CR-1141	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1549	ckm_cr=CR-1151	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1161	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1162	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1163	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1165	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1166	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1167	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1168	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1169	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1171	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1172	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1173	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1187	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1187	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1189	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1189	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1191	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1192	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1193	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1194	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1196	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1196	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1197	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1198	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1199	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1202	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1203	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1204	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1215	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1215	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1219	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1220	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1220	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1221	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1221	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1222	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1222	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1223	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1225	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1226	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1228	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1229	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1230	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1231	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1233	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1233	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1234	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1234	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1235	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1235	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1236	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1238	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1238	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1239	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1239	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1240	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1241	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1242	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1243	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1245	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1246	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1246	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1247	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1249	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1249	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1250	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1251	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1252	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1253	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1254	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1255	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1256	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1257	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1258	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1258	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1262	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1262	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1263	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1263	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1268	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1269	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1270	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1272	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1276	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1278	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1279	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1279	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1283	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1283	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1284	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1285	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1286	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1287	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1288	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1290	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1291	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1291	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1292	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1293	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1294	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1295	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1296	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1297	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1298	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1298	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1299	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1299	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1300	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1301	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1302	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1302	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1303	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1307	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1309	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1312	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1313	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1315	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1316	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1318	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1320	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1320	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1321	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1322	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1322	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1323	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1324	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1325	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1620	ckm_cr=CR-1326	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1620	ckm_cr=CR-1326	action=UPDATE_IN_PROGRESS	comment=Updated issue state to "In Progress".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1619	ckm_cr=CR-1327	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1328	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1329	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1330	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1330	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1331	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1332	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1333	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1333	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1112	ckm_cr=CR-106	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1116	ckm_cr=CR-148	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1122	ckm_cr=CR-197	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1171	ckm_cr=CR-482	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1181	ckm_cr=CR-509	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1191	ckm_cr=CR-559	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1195	ckm_cr=CR-567	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1203	ckm_cr=CR-588	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1237	ckm_cr=CR-705	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1252	ckm_cr=CR-725	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1271	ckm_cr=CR-770	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1275	ckm_cr=CR-781	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1276	ckm_cr=CR-785	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1309	ckm_cr=CR-875	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1310	ckm_cr=CR-876	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1324	ckm_cr=CR-895	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1332	ckm_cr=CR-912	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1337	ckm_cr=CR-922	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1338	ckm_cr=CR-929	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1339	ckm_cr=CR-932	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1340	ckm_cr=CR-934	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1362	ckm_cr=CR-976	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1365	ckm_cr=CR-979	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1372	ckm_cr=CR-995	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1382	ckm_cr=CR-1014	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1389	ckm_cr=CR-1023	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1401	ckm_cr=CR-1038	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1403	ckm_cr=CR-1040	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1408	ckm_cr=CR-1045	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1409	ckm_cr=CR-1046	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1423	ckm_cr=CR-1062	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1424	ckm_cr=CR-1063	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1425	ckm_cr=CR-1064	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1426	ckm_cr=CR-1065	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1427	ckm_cr=CR-1066	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1430	ckm_cr=CR-1070	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1436	ckm_cr=CR-1079	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1438	ckm_cr=CR-1081	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1444	ckm_cr=CR-1092	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1456	ckm_cr=CR-1105	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1489	ckm_cr=CR-1156	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1491	ckm_cr=CR-1128	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1493	ckm_cr=CR-1149	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1499	ckm_cr=CR-1118	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1524	ckm_cr=CR-1135	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1539	ckm_cr=CR-1143	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1540	ckm_cr=CR-1139	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - jira_issue=CLINICAL-1611	ckm_cr=CR-TEST 149	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:08:55 INFO ckm_to_jira - Finished.
+2026-04-22 10:16:45 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1098	ckm_cr=CR-4	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1100	ckm_cr=CR-24	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1103	ckm_cr=CR-52	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1104	ckm_cr=CR-53	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1105	ckm_cr=CR-54	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1106	ckm_cr=CR-55	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1107	ckm_cr=CR-56	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1108	ckm_cr=CR-60	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1110	ckm_cr=CR-97	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1113	ckm_cr=CR-108	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1115	ckm_cr=CR-147	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-149	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1117	ckm_cr=CR-171	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1118	ckm_cr=CR-183	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1119	ckm_cr=CR-188	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1124	ckm_cr=CR-222	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1125	ckm_cr=CR-224	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1126	ckm_cr=CR-225	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1127	ckm_cr=CR-231	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1129	ckm_cr=CR-247	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1130	ckm_cr=CR-248	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1131	ckm_cr=CR-257	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1133	ckm_cr=CR-288	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1134	ckm_cr=CR-291	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1137	ckm_cr=CR-326	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1138	ckm_cr=CR-329	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1140	ckm_cr=CR-341	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1141	ckm_cr=CR-343	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1143	ckm_cr=CR-369	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1146	ckm_cr=CR-387	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1149	ckm_cr=CR-401	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1150	ckm_cr=CR-405	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1151	ckm_cr=CR-409	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1152	ckm_cr=CR-420	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1153	ckm_cr=CR-435	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1154	ckm_cr=CR-436	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1158	ckm_cr=CR-449	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1159	ckm_cr=CR-450	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1162	ckm_cr=CR-455	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1164	ckm_cr=CR-459	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1165	ckm_cr=CR-461	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1166	ckm_cr=CR-462	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1169	ckm_cr=CR-478	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1174	ckm_cr=CR-491	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1178	ckm_cr=CR-499	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1183	ckm_cr=CR-517	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1186	ckm_cr=CR-545	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1187	ckm_cr=CR-547	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1188	ckm_cr=CR-553	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1192	ckm_cr=CR-562	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1196	ckm_cr=CR-573	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1197	ckm_cr=CR-574	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1198	ckm_cr=CR-575	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1199	ckm_cr=CR-578	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1200	ckm_cr=CR-579	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1204	ckm_cr=CR-590	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1206	ckm_cr=CR-602	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1207	ckm_cr=CR-608	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1208	ckm_cr=CR-610	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1209	ckm_cr=CR-624	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1212	ckm_cr=CR-630	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1542	ckm_cr=CR-634	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1218	ckm_cr=CR-651	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1219	ckm_cr=CR-659	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1220	ckm_cr=CR-660	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1223	ckm_cr=CR-685	action=UPDATE_IN_PROGRESS	comment=Updated issue state to "In Progress".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1224	ckm_cr=CR-686	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1226	ckm_cr=CR-691	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1227	ckm_cr=CR-693	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1229	ckm_cr=CR-695	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1232	ckm_cr=CR-700	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1233	ckm_cr=CR-701	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1234	ckm_cr=CR-702	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1235	ckm_cr=CR-703	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1236	ckm_cr=CR-704	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1238	ckm_cr=CR-706	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1241	ckm_cr=CR-710	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1245	ckm_cr=CR-718	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1246	ckm_cr=CR-719	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1247	ckm_cr=CR-720	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1248	ckm_cr=CR-721	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1249	ckm_cr=CR-722	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1250	ckm_cr=CR-723	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1251	ckm_cr=CR-724	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1258	ckm_cr=CR-731	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1259	ckm_cr=CR-732	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1263	ckm_cr=CR-742	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1264	ckm_cr=CR-751	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1265	ckm_cr=CR-752	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1266	ckm_cr=CR-753	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1267	ckm_cr=CR-755	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1268	ckm_cr=CR-765	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1268	ckm_cr=CR-765	action=UPDATE_IN_PROGRESS	comment=Updated issue state to "In Progress".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1272	ckm_cr=CR-774	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1273	ckm_cr=CR-777	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1286	ckm_cr=CR-809	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1288	ckm_cr=CR-820	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1292	ckm_cr=CR-829	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1295	ckm_cr=CR-838	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1296	ckm_cr=CR-839	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1297	ckm_cr=CR-840	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1301	ckm_cr=CR-850	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1308	ckm_cr=CR-873	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1320	ckm_cr=CR-889	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1321	ckm_cr=CR-890	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1327	ckm_cr=CR-903	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1333	ckm_cr=CR-913	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1336	ckm_cr=CR-916	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1345	ckm_cr=CR-949	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1346	ckm_cr=CR-950	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1347	ckm_cr=CR-951	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1348	ckm_cr=CR-953	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1349	ckm_cr=CR-954	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1354	ckm_cr=CR-961	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1355	ckm_cr=CR-962	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1373	ckm_cr=CR-998	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1376	ckm_cr=CR-1006	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1379	ckm_cr=CR-1009	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1380	ckm_cr=CR-1012	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1384	ckm_cr=CR-1016	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1387	ckm_cr=CR-1021	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1388	ckm_cr=CR-1022	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1392	ckm_cr=CR-1027	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1395	ckm_cr=CR-1030	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1397	ckm_cr=CR-1033	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1400	ckm_cr=CR-1037	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1402	ckm_cr=CR-1039	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1405	ckm_cr=CR-1042	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1407	ckm_cr=CR-1044	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1410	ckm_cr=CR-1047	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1411	ckm_cr=CR-1048	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1412	ckm_cr=CR-1049	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1431	ckm_cr=CR-1071	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1433	ckm_cr=CR-1073	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1442	ckm_cr=CR-1088	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1447	ckm_cr=CR-1096	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1450	ckm_cr=CR-1099	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1453	ckm_cr=CR-1102	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1455	ckm_cr=CR-1104	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1532	ckm_cr=CR-1119	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1506	ckm_cr=CR-1132	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1514	ckm_cr=CR-1140	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1513	ckm_cr=CR-1141	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1549	ckm_cr=CR-1151	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1161	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1162	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1163	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1165	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1166	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1167	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1168	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1169	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1171	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1172	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1173	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1187	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1187	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1189	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1189	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1191	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1192	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1193	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1194	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1196	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1196	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1197	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1198	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1199	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1202	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1203	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1204	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1215	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1215	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1219	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1220	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1220	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1221	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1221	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1222	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1222	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1223	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1225	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1226	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1228	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1229	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1230	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1231	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1233	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1233	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1234	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1234	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1235	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1235	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1236	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1238	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1238	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1239	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1239	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1240	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1241	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1242	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1243	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1245	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1246	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1246	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1247	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1249	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1249	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1250	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1251	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1252	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1253	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1254	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1255	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1256	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1257	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1258	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1258	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1262	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1262	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1263	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1263	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1268	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1269	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1270	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1272	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1276	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1278	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1279	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1279	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1283	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1283	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1284	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1285	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1286	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1287	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1288	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1290	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1291	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1291	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1292	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1293	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1294	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1295	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1296	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1297	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1298	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1298	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1299	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1299	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1300	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1301	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1302	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1302	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1303	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1307	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1309	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1312	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1313	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1315	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1316	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1318	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1320	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1320	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1321	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1322	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1322	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1323	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1324	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1325	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1620	ckm_cr=CR-1326	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1620	ckm_cr=CR-1326	action=UPDATE_IN_PROGRESS	comment=Updated issue state to "In Progress".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1619	ckm_cr=CR-1327	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1328	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1329	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1330	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1330	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1331	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1332	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYPARENTISSUE	ckm_cr=CR-1333	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=DUMMYISSUE	ckm_cr=CR-1333	action=CREATE_CR	comment=Created an issue for the CR.
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1112	ckm_cr=CR-106	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1116	ckm_cr=CR-148	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1122	ckm_cr=CR-197	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1171	ckm_cr=CR-482	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1181	ckm_cr=CR-509	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1191	ckm_cr=CR-559	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1195	ckm_cr=CR-567	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1203	ckm_cr=CR-588	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1237	ckm_cr=CR-705	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1252	ckm_cr=CR-725	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1271	ckm_cr=CR-770	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1275	ckm_cr=CR-781	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1276	ckm_cr=CR-785	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1309	ckm_cr=CR-875	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1310	ckm_cr=CR-876	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1324	ckm_cr=CR-895	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1332	ckm_cr=CR-912	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1337	ckm_cr=CR-922	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1338	ckm_cr=CR-929	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1339	ckm_cr=CR-932	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1340	ckm_cr=CR-934	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1362	ckm_cr=CR-976	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1365	ckm_cr=CR-979	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1372	ckm_cr=CR-995	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1382	ckm_cr=CR-1014	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1389	ckm_cr=CR-1023	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1401	ckm_cr=CR-1038	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1403	ckm_cr=CR-1040	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1408	ckm_cr=CR-1045	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1409	ckm_cr=CR-1046	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1423	ckm_cr=CR-1062	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1424	ckm_cr=CR-1063	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1425	ckm_cr=CR-1064	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1426	ckm_cr=CR-1065	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1427	ckm_cr=CR-1066	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1430	ckm_cr=CR-1070	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1436	ckm_cr=CR-1079	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1438	ckm_cr=CR-1081	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1444	ckm_cr=CR-1092	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1456	ckm_cr=CR-1105	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1489	ckm_cr=CR-1156	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1491	ckm_cr=CR-1128	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1493	ckm_cr=CR-1149	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1499	ckm_cr=CR-1118	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1524	ckm_cr=CR-1135	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1539	ckm_cr=CR-1143	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1540	ckm_cr=CR-1139	action=COMMENT_CLOSED	comment=CR has been closed. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - jira_issue=CLINICAL-1611	ckm_cr=CR-TEST 149	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-04-22 10:17:27 INFO ckm_to_jira - Finished.

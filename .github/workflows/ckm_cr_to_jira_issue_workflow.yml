@@ -1,0 +1,66 @@
+name: CKM Change Requests updated to JIRA issues
+
+on:
+  #schedule:
+  # - cron: '0 0 * * MON-FRI'  #At 00:00 on every day-of-week from Monday through Friday. (see https://crontab.guru/ for configuration)
+
+  workflow_dispatch:      # Allow manual trigger from GitHub UI
+
+env:
+    jira_account: ${{ secrets.JIRA_ACCOUNT }}
+    jira_token: ${{ secrets.JIRA_TOKEN }}
+    jira_webhook_01_url: ${{ secrets.JIRA_WEBHOOK_01_URL }}
+    jira_webhook_01_token: ${{ secrets.JIRA_WEBHOOK_01_TOKEN }}
+    jira_webhook_02_url: ${{ secrets.JIRA_WEBHOOK_02_URL }}
+    jira_webhook_02_token: ${{ secrets.JIRA_WEBHOOK_02_TOKEN }}
+    jira_webhook_03_url: ${{ secrets.JIRA_WEBHOOK_03_URL }}
+    jira_webhook_03_token: ${{ secrets.JIRA_WEBHOOK_03_TOKEN }}
+    jira_webhook_04_url: ${{ secrets.JIRA_WEBHOOK_04_URL }}
+    jira_webhook_04_token: ${{ secrets.JIRA_WEBHOOK_04_TOKEN }}
+    jira_webhook_05_url: ${{ secrets.JIRA_WEBHOOK_05_URL }}
+    jira_webhook_05_token: ${{ secrets.JIRA_WEBHOOK_05_TOKEN }}
+    jira_webhook_06_url: ${{ secrets.JIRA_WEBHOOK_06_URL }}
+    jira_webhook_06_token: ${{ secrets.JIRA_WEBHOOK_06_TOKEN }}
+    jira_webhook_07_url: ${{ secrets.JIRA_WEBHOOK_07_URL }}
+    jira_webhook_07_token: ${{ secrets.JIRA_WEBHOOK_07_TOKEN }}    
+
+jobs:
+  update-requests:
+    runs-on: ubuntu-latest
+    steps: # This line was causing the error due to incorrect indentation
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run script (creates + rotates log files in ./log)
+        run: |
+          python scripts/CKM_CR_to_JIRA_issue_public.py
+
+      - name: Configure git user
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Commit and push logs
+        run: |
+          # Optionally ensure log dir exists
+          if [ -d log ]; then
+            git add log/
+            # Avoid error if there is nothing new to commit
+            if ! git diff --cached --quiet; then
+              git commit -m "Update logs"
+              git push
+            else
+              echo "No log changes to commit."
+            fi
+          else
+            echo "No log directory found, skipping commit."
+          fi
