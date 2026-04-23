@@ -1,5 +1,5 @@
 # CKM Change Requests to Jira issue Updater
-> Script version: `0.2.0`
+> Script version: `0.3.0`
 
 Updates openEHR CKM Change Requests (CRs) from `https://ckm.openehr.org` with Jira issues in the `CLINICAL` project on `https://openehr.atlassian.net`.
 - Creates Jira parent issues for CKM archetypes and templates when missing.

@@ -8,10 +8,9 @@ import logging
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
 
-version = "0.2.0"
+version = "0.3.0"
 LOCAL = False
 READWRITE = False
-
 
 # Jira instance info
 JIRA_URL = "https://openehr.atlassian.net"
@@ -86,7 +85,7 @@ def setup_logger():
 
 	formatter = logging.Formatter(
 		fmt="%(asctime)s %(levelname)s %(name)s - %(message)s",
-		datefmt="%Y-%m-%d %H:%M:%S",
+		datefmt="%Y-%m-%d %H:%M:%S%z",
 	)
 	file_handler.setFormatter(formatter)
 
