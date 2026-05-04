@@ -22,7 +22,9 @@ env:
     jira_webhook_06_url: ${{ secrets.JIRA_WEBHOOK_06_URL }}
     jira_webhook_06_token: ${{ secrets.JIRA_WEBHOOK_06_TOKEN }}
     jira_webhook_07_url: ${{ secrets.JIRA_WEBHOOK_07_URL }}
-    jira_webhook_07_token: ${{ secrets.JIRA_WEBHOOK_07_TOKEN }}    
+    jira_webhook_07_token: ${{ secrets.JIRA_WEBHOOK_07_TOKEN }}
+    jira_webhook_08_url: ${{ secrets.JIRA_WEBHOOK_08_URL }}
+    jira_webhook_08_token: ${{ secrets.JIRA_WEBHOOK_08_TOKEN }}    
 
 jobs:
   update-requests:
