@@ -1,5 +1,5 @@
 # CKM Change Requests to Jira issue Updater
-> Script version: `0.3.0`
+> Script version: `0.5.0`
 
 Updates openEHR CKM Change Requests (CRs) from `https://ckm.openehr.org` with Jira issues in the `CLINICAL` project on `https://openehr.atlassian.net`.
 - Creates Jira parent issues for CKM archetypes and templates when missing.
@@ -53,6 +53,8 @@ To query the list of all issues, a JQL query is used, durected at the following 
 - CKM_CR_to_JIRA_05_Move_to_In_Progress_URL/TOKEN
 - CKM_CR_to_JIRA_06_Add_close_comment_URL/TOKEN
 - CKM_CR_to_JIRA_07_Add_missing_comment_URL/TOKEN
+- CKM_CR_to_JIRA_08_Add_label_URL/TOKEN
+
 
 #### CKM
 The list of change requests in the CKM is accesed via the REST API:
@@ -129,8 +131,8 @@ In the published version, any hardcoded credentials have to be deleted before co
 6. Move CRs to “In Progress”: For each CKM CR where the state is in `in-process`.
    - if the corresponging Jira issue state is not `In Progress`, `CKM_CR_to_JIRA_05_Move_to_In_Progress_URL?issue=<key>` is called to move the issue to this state.
 7. Handle closed or missing CKM CRs: After processing all CKM CRs, the script loops over all Jira issues to determine which issues of CR have been closed in the CKM and which have no CR counterpart in the CKM.
-   - if the CKM CR is closed, but the issue is not, `CKM_CR_to_JIRA_06_Add_close_comment_URL?issue=<key>` is called to add a comment to the Jira issue.
-   - if there is no CKM CR, corresponding to the Jira issue, `Calls CKM_CR_to_JIRA_07_Add_missing_comment_URL?issue=<key>` is called to add a comment.
+   - if the CKM CR is closed (and no "ClosedCR" label is found), but the issue is not, `CKM_CR_to_JIRA_06_Add_close_comment_URL?issue=<key>` is called to add a comment to the Jira issue and `CKM_CR_to_JIRA_08_Add_label_URL ` is called to create a "ClosedCR" label.
+   - if there is no CKM CR, corresponding to the Jira issue, `Calls CKM_CR_to_JIRA_07_Add_missing_comment_URL?issue=<key>` is called to add a comment and `CKM_CR_to_JIRA_08_Add_label_URL ` is called to create a "MissingCR" label.
 8. Summary output: At the end, the script prints and logs a summary:
 ```
 I looked at the CLINICAL board!

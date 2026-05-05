@@ -8,7 +8,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
 
-version = "0.5.0"
+version = "0.3.0"
 LOCAL = False
 READWRITE = False
 
@@ -22,7 +22,6 @@ JQL = f"project = {JIRA_BOARD} ORDER BY key"
 
 if LOCAL:
 	pass
-
 else:
 
 	# Jira credentials
@@ -50,10 +49,6 @@ else:
 
 	CKM_CR_to_JIRA_07_Add_missing_comment_URL = os.environ["jira_webhook_07_url"]
 	CKM_CR_to_JIRA_07_Add_missing_comment_TOKEN = os.environ["jira_webhook_07_token"]
-
-	CKM_CR_to_JIRA_08_Add_label_URL = os.environ["jira_webhook_08_url"]
-	CKM_CR_to_JIRA_08_Add_label_TOKEN = os.environ["jira_webhook_08_token"]
-
 
 # get list of CKM Change requests (CR)
 # works with CKM version >= 1.21.0 
@@ -145,8 +140,7 @@ def get_all_issues(jql: str = JQL, batch_size: int = 100):
 						 "customfield_11362",
 						 "customfield_11262",
 						 "issuetype",
-						 "status",
-						 "labels"],
+						 "status"],
 			}
 
 		response = requests.request(
@@ -173,7 +167,6 @@ def get_all_issues(jql: str = JQL, batch_size: int = 100):
 			change_request_id = issue['fields']['customfield_11264']
 			ckm_concept_id = issue['fields']['customfield_11295']
 			issue_status = issue['fields']['status']['name']
-			issue_labels = issue['fields']['labels']
 
 			modified_datetime = issue['fields']["customfield_11394"]
 			if issue['fields']["customfield_11266"]:
@@ -199,8 +192,8 @@ def get_all_issues(jql: str = JQL, batch_size: int = 100):
 			if not CR_status:
 				CR_status = "None"
 
-			#		0	1		2			3				4					5				6				7				8			 9			10				11
-			info = (id, key, issuetype, archetype_id, change_request_id, ckm_concept_id, modified_datetime, CR_priority , parent_status, CR_status,  issue_status, issue_labels)
+			#		0	1		2			3				4					5				6				7				8			 9			10
+			info = (id, key, issuetype, archetype_id, change_request_id, ckm_concept_id, modified_datetime, CR_priority , parent_status, CR_status,  issue_status)
 			issue_info.append(info)
 
 		all_issues.extend(issues)
@@ -278,7 +271,7 @@ for i in range(len(changeRequest)):
 		# counter_create_archetype += 1
 		print(parent_type)
 		if READWRITE:
-		#if parent_type == 'ARCHETYPE':
+		#if parent_type == 'TEMPLATE':
 			issues, issue_info = get_all_issues()
 
 			if parent_type == 'ARCHETYPE':
@@ -312,16 +305,7 @@ for i in range(len(changeRequest)):
 				time_waited += wait_time
 
 				updated_issues, updated_issue_info = get_all_issues()
-				#added = list(set(updated_issue_info) - set(issue_info))
-				added = []
-				stringified_issue_info = []
-
-				for item in issue_info:
-					stringified_issue_info.append(str(item))
-
-				for item in updated_issue_info:
-					if str(item) not in stringified_issue_info:
-						added.append(item)
+				added = list(set(updated_issue_info) - set(issue_info))
 
 				foundCreatedParent = next((t for t in added if t[3] == parent_id), None)
 				if foundCreatedParent:
@@ -469,16 +453,7 @@ for i in range(len(changeRequest)):
 				time_waited += wait_time
 
 				updated_issues, updated_issue_info = get_all_issues()
-				#added = list(set(updated_issue_info) - set(issue_info))
-				added = []
-				stringified_issue_info = []
-
-				for item in issue_info:
-					stringified_issue_info.append(str(item))
-
-				for item in updated_issue_info:
-					if str(item) not in stringified_issue_info:
-						added.append(item)
+				added = list(set(updated_issue_info) - set(issue_info))
 
 				foundCreatedIssue = next((t for t in added if t[4] == CR_id_number), None)
 				if foundCreatedIssue:
@@ -491,7 +466,6 @@ for i in range(len(changeRequest)):
 				stop_script('Error: Tried to execute Jira webhook to create an issue, but failed to connect.')
 
 			print('I created issue', issuekey)
-
 
 		else:
 			issuekey = 'DUMMYISSUE'
@@ -541,13 +515,13 @@ for info in issue_info:
 			print('This CR was closed! We are going to add a comment!')
 
 			#as this CR was closed in the CKM, propose to move it to "Done" in JIRA
-			#but only if issue is not in "Rejected" or "Done" or has allready the "ClosedCR" label
-			if info[10] != 'Rejected' and info[10] != 'Done' and "ClosedCR" not in info[11]:
+			#but only if issue is not in "Rejected" or "Done"
+			if info[10] != 'Rejected' and info[10] != 'Done':
 				counter_move_CR_DONE += 1
 				if READWRITE:
 					issuekey = info[1]
-					print('I found issue ' + issuekey + ' that has a CR-.. label, but is a closed CKM CR. I add a comment to JIRA.')
-					#ADD COMMENT
+					print('I found issue ' + issuekey + ' that has a CR-.. label, but is not an open CKM CR. I add a comment to JIRA.')
+
 					URL = CKM_CR_to_JIRA_06_Add_close_comment_URL+'?issue='+issuekey
 					secret = CKM_CR_to_JIRA_06_Add_close_comment_TOKEN
 					response = requests.post(
@@ -557,26 +531,6 @@ for info in issue_info:
 					print(response.status_code)
 					if response.status_code != 200:
 						stop_script('Error: Tried to execute Jira webhook to inform about a closed CR, but failed to connect.')
-					#ADD LABELS
-					prior_labels = info[11]
-					updated_labels = prior_labels + ["ClosedCR"]
-					label_data = {
-						  "data": {
-							"labels": updated_labels
-						  }
-						}
-					URL = CKM_CR_to_JIRA_08_Add_label_URL +'?issue='+issuekey
-					secret = CKM_CR_to_JIRA_08_Add_label_TOKEN
-					print('Sending CR Closed label update to ' + URL)
-					response = requests.post(
-						URL,
-						data=json.dumps(label_data),
-						headers={"Content-Type": "application/json", "Accept": "application/json", "X-Automation-Webhook-Token":secret}
-					)
-					print(response.status_code)
-					if response.status_code != 200:
-						stop_script('Error: Tried to execute Jira webhook to add Closed CR label, but failed to connect.')
-
 				else:
 					issuekey = info[1]
 					print('ONLY READ MODE: I found issue ' + issuekey + ' that has a CR-.. label, but is not an open CKM CR. I would transition this to "Done" in JIRA.')
@@ -585,12 +539,11 @@ for info in issue_info:
 		else:
 			print('This issue has a CR that does not exist in the CKM!!!')
 			#as this CR does not exist in the CKM, propose to move it to "Done" in JIRA
-			#but only if issue is not in "Rejected" or "Done" or has allready the "MissingCR" label
-			if info[10] != 'Rejected' and info[10] != 'Done' and "MissingCR" not in info[11]:
+
+			if info[10] != 'Rejected' and info[10] != 'Done':
 				counter_report_missing += 1
 				if READWRITE:
 					issuekey = info[1]
-					#ADD COMMENT
 					print('I found issue ' + issuekey + ' that has a CR-.. label, but is not in the CKM. I add a comment to JIRA.')
 					URL = CKM_CR_to_JIRA_07_Add_missing_comment_URL+'?issue='+issuekey
 					secret = CKM_CR_to_JIRA_07_Add_missing_comment_TOKEN
@@ -601,25 +554,6 @@ for info in issue_info:
 					print(response.status_code)
 					if response.status_code != 200:
 						stop_script('Error: Tried to execute Jira webhook to inform about a missing CR, but failed to connect.')
-					#ADD LABELS
-					prior_labels = info[11]
-					updated_labels = prior_labels + ["MissingCR"]
-					label_data = {
-						  "data": {
-							"labels": updated_labels
-						  }
-						}
-					URL = CKM_CR_to_JIRA_08_Add_label_URL +'?issue='+issuekey
-					secret = CKM_CR_to_JIRA_08_Add_label_TOKEN
-					print('Sending CR Missing label update to ' + URL)
-					response = requests.post(
-						URL,
-						data=json.dumps(label_data),
-						headers={"Content-Type": "application/json", "Accept": "application/json", "X-Automation-Webhook-Token":secret}
-					)
-					print(response.status_code)
-					if response.status_code != 200:
-						stop_script('Error: Tried to execute Jira webhook to add missing CR label, but failed to connect.')
 
 				else:
 					issuekey = info[1]
