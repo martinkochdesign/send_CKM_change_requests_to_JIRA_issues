@@ -242,7 +242,7 @@ print('Checking for all CKM CRs...')
 # for every CKM Chang Request...
 #for CR in changeRequest:
 #for i in range(len(changeRequest)):
-for i in range(150):   #MAKE IT SO WE CAN ONLY SEND N CR TO JIRA
+for i in range(200):   #MAKE IT SO WE CAN ONLY SEND N CR TO JIRA
 	CR = changeRequest[i]
 	print('Looking at CR', CR['crId'])
 
