@@ -612,3 +612,37 @@
 2026-05-28 07:08:18+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 46
 2026-05-28 07:08:18+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 1
 2026-05-28 07:08:18+0000 INFO ckm_to_jira - Finished.
+2026-05-28 07:22:56+0000 INFO ckm_to_jira - Script version 0.5.0
+2026-05-28 07:22:56+0000 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-05-28 07:23:47+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1158	ckm_cr=CR-449	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:48+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1159	ckm_cr=CR-450	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:48+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1162	ckm_cr=CR-455	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:49+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1164	ckm_cr=CR-459	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:49+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1165	ckm_cr=CR-461	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:50+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1166	ckm_cr=CR-462	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:50+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1169	ckm_cr=CR-478	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:50+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1174	ckm_cr=CR-491	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:51+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1178	ckm_cr=CR-499	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:51+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1183	ckm_cr=CR-517	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:52+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1186	ckm_cr=CR-545	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:52+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1187	ckm_cr=CR-547	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:52+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1188	ckm_cr=CR-553	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:53+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1192	ckm_cr=CR-562	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:53+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1196	ckm_cr=CR-573	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:54+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1197	ckm_cr=CR-574	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:54+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1198	ckm_cr=CR-575	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:55+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1199	ckm_cr=CR-578	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:55+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1200	ckm_cr=CR-579	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:55+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1204	ckm_cr=CR-590	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:56+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1206	ckm_cr=CR-602	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:56+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1207	ckm_cr=CR-608	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1208	ckm_cr=CR-610	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - SUMMARY
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Created Archetypes: 0
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Created Templates: 0
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Created Change Requests: 0
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Updated Change Requests: 23
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Moved Change Requests to IN_PROCESS: 0
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
+2026-05-28 07:23:57+0000 INFO ckm_to_jira - Finished.
