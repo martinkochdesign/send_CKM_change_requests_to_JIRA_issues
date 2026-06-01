@@ -1,9 +1,7 @@
 name: CKM Change Requests updated to JIRA issues
-
 on:
   schedule:
-  - cron: '0 2 * * MON-FRI'  #At 02:00 on every day-of-week from Monday through Friday. (see https://crontab.guru/ for configuration)
-
+    - cron: '25 6 * * MON-FRI'
   workflow_dispatch:      # Allow manual trigger from GitHub UI
 
 env:
