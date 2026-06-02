@@ -8,7 +8,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
 
-version = "0.5.0"
+version = "0.6.0"
 LOCAL = False
 READWRITE = True
 
@@ -501,6 +501,7 @@ for i in range(len(changeRequest)):
 
 	if foundIssue and CR['status'] == 'IN_PROCESS':
 		print('This CR is IN_PROCESS. I want to move it to "IN PROGRESS" in JIRA.')
+		print(foundIssue)
 
 		if foundIssue[10]!='In Progress':
 			counter_move_CR_INPROCESS += 1
