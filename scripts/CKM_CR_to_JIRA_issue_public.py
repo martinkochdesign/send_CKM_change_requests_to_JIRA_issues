@@ -501,9 +501,8 @@ for i in range(len(changeRequest)):
 
 	if foundIssue and CR['status'] == 'IN_PROCESS':
 		print('This CR is IN_PROCESS. I want to move it to "IN PROGRESS" in JIRA.')
-		print(foundIssue)
 
-		if foundIssue[10]!='In Progress':
+		if foundIssue[10]!='In progress':
 			counter_move_CR_INPROCESS += 1
 			if READWRITE:
 
