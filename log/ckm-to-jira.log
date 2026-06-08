@@ -337,3 +337,14 @@
 2026-06-07 16:06:02+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
 2026-06-07 16:06:02+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
 2026-06-07 16:06:02+0000 INFO ckm_to_jira - Finished.
+2026-06-08 17:42:22+0000 INFO ckm_to_jira - Script version 0.6.0
+2026-06-08 17:42:22+0000 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - SUMMARY
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Created Archetypes: 0
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Created Templates: 0
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Created Change Requests: 0
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Updated Change Requests: 0
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Moved Change Requests to IN_PROCESS: 0
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
+2026-06-08 17:43:10+0000 INFO ckm_to_jira - Finished.
