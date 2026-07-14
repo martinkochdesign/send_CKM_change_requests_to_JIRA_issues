@@ -766,3 +766,17 @@
 2026-07-13 17:04:47+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
 2026-07-13 17:04:47+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
 2026-07-13 17:04:47+0000 INFO ckm_to_jira - Finished.
+2026-07-14 16:07:18+0000 INFO ckm_to_jira - Script version 0.6.0
+2026-07-14 16:07:18+0000 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-07-14 16:08:10+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1114	ckm_cr=CR-146	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-07-14 16:08:10+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1136	ckm_cr=CR-299	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1550	ckm_cr=CR-1130	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - SUMMARY
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Created Archetypes: 0
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Created Templates: 0
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Created Change Requests: 0
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Updated Change Requests: 3
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Moved Change Requests to IN_PROCESS: 0
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
+2026-07-14 16:08:11+0000 INFO ckm_to_jira - Finished.
