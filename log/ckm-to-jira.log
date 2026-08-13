@@ -1088,3 +1088,16 @@
 2026-08-12 15:48:53+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
 2026-08-12 15:48:53+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
 2026-08-12 15:48:53+0000 INFO ckm_to_jira - Finished.
+2026-08-13 15:46:07+0000 INFO ckm_to_jira - Script version 0.6.0
+2026-08-13 15:46:07+0000 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-08-13 15:47:34+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1817	ckm_cr=CR-1362	action=CREATE_PARENT	comment=Created a parent issue for this CR.
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1818	ckm_cr=CR-1362	action=CREATE_CR	comment=Created an issue for the CR.
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - SUMMARY
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Created Archetypes: 1
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Created Templates: 0
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Created Change Requests: 1
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Updated Change Requests: 0
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Moved Change Requests to IN_PROCESS: 0
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
+2026-08-13 15:47:52+0000 INFO ckm_to_jira - Finished.
