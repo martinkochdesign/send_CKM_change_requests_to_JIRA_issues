@@ -750,3 +750,18 @@
 2026-10-05 21:43:58+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
 2026-10-05 21:43:58+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
 2026-10-05 21:43:58+0000 INFO ckm_to_jira - Finished.
+2026-10-06 19:53:00+0000 INFO ckm_to_jira - Script version 0.6.0
+2026-10-06 19:53:00+0000 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-10-06 19:54:09+0000 INFO ckm_to_jira - jira_issue=CLINICAL-1849	ckm_cr=CR-1381	action=UPDATE_CR	comment=Updated the CR data in issue.
+2026-10-06 19:54:29+0000 INFO ckm_to_jira - jira_issue=CLINICAL-2069	ckm_cr=CR-1518	action=CREATE_CR	comment=Created an issue for the CR.
+2026-10-06 19:54:50+0000 INFO ckm_to_jira - jira_issue=CLINICAL-2070	ckm_cr=CR-1519	action=CREATE_CR	comment=Created an issue for the CR.
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - jira_issue=CLINICAL-2067	ckm_cr=CR-1516	action=COMMENT_MISSING	comment=CR not found in CKM. Added comment to move issue to "Done" or "Rejected".
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - SUMMARY
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Created Archetypes: 0
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Created Templates: 0
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Created Change Requests: 2
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Updated Change Requests: 1
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Moved Change Requests to IN_PROCESS: 0
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 1
+2026-10-06 19:54:51+0000 INFO ckm_to_jira - Finished.
