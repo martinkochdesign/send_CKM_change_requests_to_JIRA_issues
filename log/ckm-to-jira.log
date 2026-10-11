@@ -809,3 +809,6 @@
 2026-10-10 19:02:26+0000 INFO ckm_to_jira - Added comment about closed CKM CR: 0
 2026-10-10 19:02:26+0000 INFO ckm_to_jira - Added comment about missing CKM CR: 0
 2026-10-10 19:02:26+0000 INFO ckm_to_jira - Finished.
+2026-10-11 19:15:14+0000 INFO ckm_to_jira - Script version 0.6.0
+2026-10-11 19:15:14+0000 INFO ckm_to_jira - Starting CKM CR → Jira issues.
+2026-10-11 19:15:14+0000 INFO ckm_to_jira - Error: Could not connect to CKM to get CR.
